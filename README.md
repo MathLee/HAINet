@@ -40,8 +40,7 @@ The code will come in soon.
    </div>
    
    
-   
-# Evaluation tool
+# Evaluation Tool
    You can use the [evaluation tool](http://dpfan.net/d3netbenchmark/) to evaluate the above saliency maps.
 
 
