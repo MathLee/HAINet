@@ -12,9 +12,8 @@
 
 # Network Architecture
    <div align=center>
-   <img src="https://github.com/MathLee/HAINet/blob/main/Images/Network_overview.pdf">
+   <img src="https://github.com/MathLee/HAINet/blob/main/Images/NetworkOverview.png">
    </div>
-   ![Image](https://github.com/MathLee/HAINet/blob/main/Images/Network_overview.pdf)
 
 
 # Testing
