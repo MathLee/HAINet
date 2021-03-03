@@ -21,19 +21,19 @@ The code will come in soon.
 # RGB-D SOD Results Trained with NJU2K and NLPR
    We provide [results](https://pan.baidu.com/s/1XkrwzNz9IDihz6S5gpfomg) (code: a2as) of our HAINet on 5 datasets (STEREO1000, NJU2K, DES, NLPR and SIP) and additional 2 datasets (SSD and LFSD).
    
-   ![Image](https://github.com/MathLee/HAINet/blob/master/Images/Table1.png)
+   ![Image](https://github.com/MathLee/HAINet/blob/main/Images/Table1.png)
    
    
 # RGB-D SOD Results Trained with NJU2K, NLPR and DUTLF-Depth
    We provide [results](https://pan.baidu.com/s/16CWNrzW7-b-0_hTSojirLg) (code: n35b) of our HAINet on 7 datasets (STEREO1000, NJU2K, DES, NLPR, SIP, DUTLF-Depth and [ReDWeb-S](https://github.com/nnizhang/SMAC)).
    
-   ![Image](https://github.com/MathLee/HAINet/blob/master/Images/Table2.png)
+   ![Image](https://github.com/MathLee/HAINet/blob/main/Images/Table2.png)
    
    
 # RGB-T SOD Results
    We apply our HAINet to [RGB-T SOD](https://github.com/lz118/RGBT-Salient-Object-Detection), and provide [results](https://pan.baidu.com/s/1A-lCEmitQUtAeqhPh4qpVQ) (code: s82s) of our HAINet on VT821 dataset trained with VT1000 dataset.
    
-   ![Image](https://github.com/MathLee/HAINet/blob/master/Images/Table3.png)
+   ![Image](https://github.com/MathLee/HAINet/blob/main/Images/Table3.png)
    
    
 # Evaluation tool
