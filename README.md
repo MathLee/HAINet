@@ -34,6 +34,7 @@ The code will come in soon.
    We apply our HAINet to [RGB-T SOD](https://github.com/lz118/RGBT-Salient-Object-Detection), and provide [results](https://pan.baidu.com/s/1A-lCEmitQUtAeqhPh4qpVQ) (code: s82s) of our HAINet on VT821 dataset trained with VT1000 dataset.
    
    <div align=center>
+   <img src="https://github.com/MathLee/HAINet/blob/main/Images/Table3.png">
    ![Image](https://github.com/MathLee/HAINet/blob/main/Images/Table3.png)
    </div>
    
