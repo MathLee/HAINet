@@ -11,7 +11,7 @@
 
 
 # Network Architecture
-   ![Image](https://github.com/MathLee/HAINet/blob/master/Images/NetworkOverview.png)
+   ![Image](https://github.com/MathLee/HAINet/blob/main/Images/NetworkOverview.png)
 
 
 # Testing
