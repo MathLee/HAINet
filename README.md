@@ -4,7 +4,9 @@
    
 # Requirements
    python2.7
+   
    pytorch 0.4.0
+   
    Our code is implemented based on the environment settings of [CPD](https://github.com/wuzhe71/CPD). 
 
 
