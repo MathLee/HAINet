@@ -11,6 +11,9 @@
 
 
 # Network Architecture
+   <div align=center>
+   <img src="https://github.com/MathLee/HAINet/blob/main/Images/Network_overview.pdf">
+   </div>
    ![Image](https://github.com/MathLee/HAINet/blob/main/Images/Network_overview.pdf)
 
 
@@ -35,7 +38,6 @@ The code will come in soon.
    
    <div align=center>
    <img src="https://github.com/MathLee/HAINet/blob/main/Images/Table3.png">
-   ![Image](https://github.com/MathLee/HAINet/blob/main/Images/Table3.png)
    </div>
    
    
