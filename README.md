@@ -30,7 +30,7 @@ The code will come in soon.
    ![Image](https://github.com/MathLee/HAINet/blob/master/Images/Table2.png)
    
    
-# RGT-D SOD Results
+# RGB-T SOD Results
    We apply our HAINet to [RGB-T SOD](https://github.com/lz118/RGBT-Salient-Object-Detection), and provide [results](https://pan.baidu.com/s/1A-lCEmitQUtAeqhPh4qpVQ) (code: s82s) of our HAINet on VT821 dataset trained with VT1000 dataset.
    
    ![Image](https://github.com/MathLee/HAINet/blob/master/Images/Table3.png)
