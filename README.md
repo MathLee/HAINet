@@ -1,5 +1,5 @@
 # HAINet
-   This project provides the code and results for 'Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection', IEEE TIP 2021.
+   This project provides the code and results for 'Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection', IEEE TIP 2021. [Paper link](https://ieeexplore.ieee.org/document/9371407).
    
    
 # Requirements
