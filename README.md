@@ -1,5 +1,11 @@
 # HAINet
    This project provides the code and results for 'Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection', IEEE TIP 2021. [Paper link](https://ieeexplore.ieee.org/document/9371407).
+ 
+ 
+# Network Architecture
+   <div align=center>
+   <img src="https://github.com/MathLee/HAINet/blob/main/Images/NetworkOverview.png">
+   </div>
    
    
 # Requirements
@@ -10,15 +16,15 @@
    Our code is implemented based on the environment settings of [CPD](https://github.com/wuzhe71/CPD). 
 
 
-# Network Architecture
-   <div align=center>
-   <img src="https://github.com/MathLee/HAINet/blob/main/Images/NetworkOverview.png">
-   </div>
-
-
 # Usage
 
-Modify the pathes of backbone and datasets, then run train_HAI.py or test_HAI.py
+Modify the pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7qrw) (code: ego5) and datasets, then run train_HAI.py or test_HAI.py
+
+
+# Pre-trained model
+[Trained with NJU2K and NLPR](https://pan.baidu.com/s/1h5TqkeE3HatcRWVm7HmYZg) (code: 4ntl)
+
+[Trained with NJU2K, NLPR and DUTLF-Depth](https://pan.baidu.com/s/1VsRQXHU_F6uQ9Vi97b_dmQ) (code: t5lr)
 
 
 # RGB-D SOD Results Trained with NJU2K and NLPR
