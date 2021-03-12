@@ -24,7 +24,7 @@ Modify the pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7
 # Pre-trained model
 [Trained with NJU2K and NLPR](https://pan.baidu.com/s/1h5TqkeE3HatcRWVm7HmYZg) (code: 4ntl)
 
-[Trained with NJU2K, NLPR and DUTLF-Depth](https://pan.baidu.com/s/1VsRQXHU_F6uQ9Vi97b_dmQ) (code: t5lr)
+[Trained with NJU2K, NLPR and DUTLF-Depth](https://pan.baidu.com/s/10-9G2zd7UCOf-b8Th0z4EQ) (code: ae49)
 
 
 # RGB-D SOD Results Trained with NJU2K and NLPR
