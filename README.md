@@ -57,9 +57,8 @@ The code will come in soon.
                 title = {Hierarchical Alternate Interaction Network for RGB-D Salient Object Detection},
                 journal = {IEEE Transactions on Image Processing},
                 year = {2021},
-                volume = {},
-                pages = {},
-                doi = {10.1109/TIP.2021.3062689},}
+                volume = {30},
+                pages = {3528-3542},}
                 
                 
 If you encounter any problems with the code, want to report bugs, etc.
