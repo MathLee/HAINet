@@ -16,8 +16,9 @@
    </div>
 
 
-# Testing
-The code will come in soon.
+# Usage
+
+Modify the pathes of backbone and datasets, then run train_HAI.py or test_HAI.py
 
 
 # RGB-D SOD Results Trained with NJU2K and NLPR
