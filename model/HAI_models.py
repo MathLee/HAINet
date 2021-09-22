@@ -287,7 +287,7 @@ class HAIMNet_VGG(nn.Module):
         x1_en = self.haim_1(x1_rgb, x1_d)
 
         s1, s2, s3, s4 ,s5 = self.decoder_rgbd(x5_en, x4_en, x3_en, x2_en, x1_en)
-        # At test phase, we can use the HA to post-processing our saliency map
+
         s3 = self.upsample2(s3)
         s4 = self.upsample4(s4)
         s5 = self.upsample8(s5)
