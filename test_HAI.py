@@ -51,3 +51,4 @@ for dataset in test_datasets:
         misc.imsave(save_path+name, res)
         if i == test_loader.size-1:
             print('Running time {:.5f}'.format(time_sum/test_loader.size))
+            print('Average speed: {:.4f} fps'.format(test_loader.size/time_sum))
