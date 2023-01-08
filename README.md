@@ -18,7 +18,7 @@
 
 # Usage
 
-Modify the pathes of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7qrw) (code: ego5) and datasets, then run train_HAI.py or test_HAI.py
+Modify the paths of [VGG backbone](https://pan.baidu.com/s/1YQxKZ-y2C4EsqrgKNI7qrw) (code: ego5) and datasets, then run train_HAI.py or test_HAI.py
 
 
 # Pre-trained model
